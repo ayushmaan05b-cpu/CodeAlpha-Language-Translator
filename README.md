@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Language Translation Tool developed using Python and Streamlit. It allows users to translate text between different languages using Google Translator API.
+This project is a Language Translation Tool developed using Python and Streamlit.
 
 ## Features
 
@@ -10,7 +10,6 @@ This project is a Language Translation Tool developed using Python and Streamlit
 * Source and target language selection
 * Language swap button
 * User-friendly interface
-* Fast and accurate translation
 
 ## Technologies Used
 
@@ -20,22 +19,8 @@ This project is a Language Translation Tool developed using Python and Streamlit
 
 ## Installation
 
-Install the required libraries:
-
 pip install -r requirements.txt
 
 ## Run Project
 
 python -m streamlit run app.py
-
-## Project Workflow
-
-1. Enter the text to be translated.
-2. Select the source language.
-3. Select the target language.
-4. Click on the Translate button.
-5. View the translated text on the screen.
-
-## Author
-
-Ayush
