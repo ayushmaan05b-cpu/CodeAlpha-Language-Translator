@@ -38,4 +38,4 @@ python -m streamlit run app.py
 
 ## Author
 
-Ayush Maan
+Ayush
